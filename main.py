@@ -382,9 +382,6 @@ for i in range(0,len(user_id1)):
 今天是我们在一起的第{{start_date.DATA}}天
 距离领导的生日还有{{birthday_lover.DATA}}天 
 距离秘书的生日还有{{birthday_my.DATA}}天 
-距离元旦还有{{yd.DATA}}天 
-距离春节还有{{cj.DATA}}天 
-===家乡:{{city2.DATA}} 天气:{{weather2.DATA}}=== 
 每日一句：{{words.DATA}}
 
 
