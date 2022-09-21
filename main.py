@@ -379,7 +379,7 @@ for i in range(0,len(user_id1)):
 今日天气：{{weather1.DATA}} 
 当前温度：{{temperature1.DATA}} 
 {{sid.DATA}} 
-今天是我们在一起的第{{delta.days}}天
+今天是我们在一起的第{{start_date.DATA}}天
 距离领导的生日还有{{birthday_lover.DATA}}天 
 距离秘书的生日还有{{birthday_my.DATA}}天 
 距离元旦还有{{yd.DATA}}天 
