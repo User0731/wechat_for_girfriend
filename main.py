@@ -346,7 +346,7 @@ data = {"m_n_a":{"value":m_n_a,"color":get_random_color()},
         "birthday_my":{"value":get_birthday(birthday_my),"color":get_random_color()},
         "words":{"value":"\n"+get_words(),"color":get_random_color()},
         "mv":{"value":top_mv(),"color":get_random_color()},
-         "start_date":{"value":get_count(),"vlaue":get_random_color()}
+        "start_date":{"value":get_count(),"color":get_random_color()}
         }
 
 
